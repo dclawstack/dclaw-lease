@@ -1,0 +1,5 @@
+apiVersion: v2
+name: dclaw-lease
+description: Helm chart for DClaw Lease
+version: 1.0.0
+appVersion: "1.0.0"
